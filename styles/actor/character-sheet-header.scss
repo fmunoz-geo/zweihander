@@ -64,6 +64,7 @@
         font-family: var(--zh-font-title);
         font-size: 13px;
         text-transform: uppercase;
+        padding-top: 2px;
       }
       .rp-title,
       .rp-content,
@@ -164,6 +165,7 @@
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
+    padding-bottom: 1px;
     .corruption {
       flex: 0 0 30px;
       color: var(--zh-clr-aqua);
